@@ -20,7 +20,7 @@ Ping4Win Utils keeps your Mac awake on demand, shows the system readings that ac
 
 100% native (SwiftUI + AppKit), bilingual (en-US / ru), no Electron, no analytics, no network calls.
 
-> **Fork note:** This is a community fork of [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) maintained by [Ping4Win](https://ping4win.com). The primary contribution of this fork is a full Russian localisation (`ru`) and Russian-language documentation. All original features are preserved unchanged.
+> **Fork note:** This is a community fork by [Ping4Win](https://ping4win.com). The primary contribution of this fork is a full Russian localisation (`ru`) and Russian-language documentation. All original features are preserved unchanged.
 
 ---
 
