@@ -179,15 +179,8 @@ Issues and pull requests are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) 
 
 ---
 
-## Original Project
-
-This repository is a fork of [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils).  
-All credit for the original application goes to **Vorssaint**.
-
----
-
 ## License
 
-[PolyForm Noncommercial License 1.0.0](LICENSE) — © 2026 Vorssaint (original), Ping4Win (fork).  
+[PolyForm Noncommercial License 1.0.0](LICENSE)- Ping4Win (fork).  
 Free to use, modify and share for any **noncommercial** purpose, with attribution.  
 Commercial use is not permitted.
