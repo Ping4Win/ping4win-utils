@@ -2,7 +2,7 @@
 
 Спасибо за интерес! Этот проект стремится оставаться небольшим, нативным и читаемым.
 
-🌐 **Языки / Languages:** [English](../CONTRIBUTING.md) | **Русский**
+🌐 **Языки / Languages:** [English](../CONTRIBUTING.md) | **Русский** | [Українська](CONTRIBUTING.uk.md)
 
 ---
 
